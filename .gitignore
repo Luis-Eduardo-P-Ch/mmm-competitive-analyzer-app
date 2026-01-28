@@ -1,0 +1,7 @@
+temp_uploads/
+__pycache__/
+*.pyc
+venv/
+.DS_Store
+*.xlsx
+*.xls
